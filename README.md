@@ -1,4 +1,6 @@
-# UtahJS SLC Group - Meetup topics, suggestions, and speaker signups! http://www.meetup.com/UtahJS/
+### This page is http://shar.pn/topics
+
+## UtahJS SLC Group - Meetup topics, suggestions, and speaker signups! http://www.meetup.com/UtahJS/
 
 Our Angular Meetup compatriots have had a lot of success with using a repo to track Meetup ideas and volunteers, so we've decided to try it out as well!
 
